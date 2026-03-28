@@ -1,0 +1,62 @@
+add in the gambling and slots and coinflip depending on user points total the computer can take more 
+points from the user if they lose and give more points if they win.
+
+
+also polish the gambling commands and make them more fun and interactive let alone make them more visually appealing with emojis and better formatting and display correct results and winnings and losses and make it more fun to gamble with the bot.
+also add a leaderboard command that shows the top users with the most points and their rankings. make it visually appealing with emojis and formatting to make it more engaging for users to see their standings on the leaderboard.
+ 
+
+
+ Create/manage server events for streams, meetups, ingame events, raids guild versus guild etc. Linked Roles / Connections
+Grant roles based on external connections (Twitch, YouTube, etc.). Application Emojis
+Bot-owned emojis that work everywhere the bot is.
+
+User-Installable Apps
+Allow users to install your bot personally (works in DMs and other servers).?????????
+
+Voice Channel Activities
+Launch embedded activities (games, watch together) in voice. ??????????
+
+Soundboard Integration
+Access server soundboard sounds in voice channels. ????????
+
+
+wikiiii connected to diff games? or a google search? 
+gifs? video? lyrics? 
+HIGH PRIORITY (Should Have)
+Feature	Why It Matters
+Reaction Roles	Self-assign roles via buttons/reactions - most requested feature
+Moderation Commands	/warn, /kick, /ban, /timeout, /mute - essential for mods
+Level Rewards	Auto-assign roles at certain XP levels (level 5 = Member role, etc.)
+Warn System	Track warnings per user with /warnings to view history
+Starboard	Pin popular messages (⭐ reactions) to a showcase channel
+AFK System	/afk - bot notifies when AFK user is pinged
+
+Giveaways	/giveaway with entries, timer, winner selection
+Suggestion System	Users submit ideas, community votes with ✅/❌
+Invite Tracker	Track who invited who, invite leaderboard
+Server Stats Channels	Auto-updating voice channels: "👥 Members: 1,234"
+Birthday System	Track & announce birthdays, birthday role
+Scheduled Announcements	/schedule a message for later
+
+
+IMPROVEMENTS TO EXISTING
+System	Missing Feature
+XP	Level-up announcement messages, level role rewards
+Economy	Shop system (/shop, /buy), inventory, items to use
+Music	/lyrics command, "/nowplaying" auto-updates
+Tickets	Transcript saving on close, ticket categories
+Automod	Anti-spam (rate limiting), anti-raid (mass join detection), link filter, caps filter
+
+connected to other api??? possible? feedback? connected to chatgpt somehow so users can have a nice msg chat if they need therapy or alike.. maybe voice too or ?
+
+
+NICE TO HAVE
+Mini-games (trivia, hangman, connect4)
+Image manipulation (/avatar, /banner, meme templates)
+/weather and /time lookup
+Translation (/translate)
+
+some of the slash commands needs adding or redoing.. for another day
+
+birthday date? announce in general chat?

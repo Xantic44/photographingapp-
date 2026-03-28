@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Photo Social App</title>
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Tailwind via CDN (easy for learning) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    // Tailwind theme customization for warm UI tokens.
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ["Poppins", "ui-sans-serif", "system-ui"]
+          },
+          boxShadow: {
+            soft: "0 18px 50px -22px rgba(146, 64, 14, 0.35)"
+          }
+        }
+      }
+    };
+  </script>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-rose-100 font-sans text-stone-800">
+  <!-- Warm decorative background glows -->
+  <div class="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
+    <div class="absolute -top-24 -left-20 h-80 w-80 rounded-full bg-orange-300/35 blur-3xl"></div>
+    <div class="absolute -bottom-24 -right-20 h-96 w-96 rounded-full bg-rose-300/35 blur-3xl"></div>
+  </div>
+
+  <main class="mx-auto mt-10 w-[92%] max-w-2xl rounded-3xl border border-amber-200 bg-white/85 p-6 shadow-soft backdrop-blur sm:p-8">
+    <p class="mb-1 text-xs uppercase tracking-[0.18em] text-orange-600">Flask + SQLite</p>
+    <h1 class="text-3xl font-bold text-stone-900">Photo Social App</h1>
+    <p class="mt-2 text-sm text-stone-600">
+      Save notes to your database, then view the latest message and recent history.
+    </p>
+
+    <!-- Test GET /api/hello -->
+    <button
+      id="loadBtn"
+      class="mt-5 rounded-xl bg-orange-500 px-4 py-2 font-semibold text-white transition hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-orange-300"
+    >
+      Load Message
+    </button>
+    <p id="loadResult" class="mt-3 text-sm font-medium text-orange-700">Waiting...</p>
+
+    <!-- Form for POST /api/notes -->
+    <section class="mt-7 border-t border-amber-200 pt-5">
+      <h2 class="text-lg font-semibold text-stone-900">Add a new note</h2>
+      <input
+        id="noteInput"
+        type="text"
+        maxlength="200"
+        placeholder="Type a note..."
+        class="mt-3 w-full rounded-xl border border-amber-200 bg-white px-3 py-2 text-sm text-stone-800 outline-none placeholder:text-stone-400 focus:border-orange-400"
+      />
+      <button
+        id="saveNoteBtn"
+        class="mt-3 rounded-xl bg-rose-500 px-4 py-2 font-semibold text-white transition hover:bg-rose-600 focus:outline-none focus:ring-2 focus:ring-rose-300"
+      >
+        Save Note
+      </button>
+      <p id="noteStatus" class="mt-3 text-sm font-medium text-rose-700">No note saved yet.</p>
+    </section>
+
+    <!-- Notes list (filled by JavaScript from GET /api/notes) -->
+    <section class="mt-7 border-t border-amber-200 pt-5">
+      <h2 class="text-lg font-semibold text-stone-900">Latest notes</h2>
+      <ul id="notesList" class="mt-3 space-y-2 text-sm text-stone-700">
+        <li class="rounded-xl border border-amber-200 bg-amber-50 px-3 py-2">
+          No notes loaded yet.
+        </li>
+      </ul>
+    </section>
+
+  </main>
+
+  <!-- Keep JS in one file so behavior stays easy to debug -->
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

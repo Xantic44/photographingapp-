@@ -1,0 +1,467 @@
+{
+  "xp": {
+    "1478406676196622420": {
+      "135208352601997313": {
+        "xp": 196,
+        "level": 83,
+        "total_xp": 91421
+      },
+      "1072642595194404874": {
+        "xp": 436,
+        "level": 60,
+        "total_xp": 49111
+      },
+      "839666059475681291": {
+        "xp": 208,
+        "level": 36,
+        "total_xp": 18583
+      },
+      "1443834460515602475": {
+        "xp": 98,
+        "level": 6,
+        "total_xp": 848
+      },
+      "463441792822411264": {
+        "xp": 399,
+        "level": 46,
+        "total_xp": 29649
+      },
+      "273363069219110913": {
+        "xp": 961,
+        "level": 50,
+        "total_xp": 35261
+      },
+      "1112763956994515096": {
+        "xp": 215,
+        "level": 10,
+        "total_xp": 2015
+      },
+      "1478404334445396198": {
+        "xp": 0,
+        "level": 1,
+        "total_xp": 0
+      },
+      "290877564203827201": {
+        "xp": 950,
+        "level": 53,
+        "total_xp": 39300
+      },
+      "153579334286835712": {
+        "xp": 798,
+        "level": 30,
+        "total_xp": 13848
+      },
+      "1449740325194039321": {
+        "xp": 232,
+        "level": 42,
+        "total_xp": 24832
+      },
+      "353236372129316865": {
+        "xp": 40,
+        "level": 44,
+        "total_xp": 26915
+      },
+      "592782264740347914": {
+        "xp": 440,
+        "level": 51,
+        "total_xp": 36065
+      },
+      "739679361816592486": {
+        "xp": 972,
+        "level": 46,
+        "total_xp": 30222
+      },
+      "295855913875537920": {
+        "xp": 75,
+        "level": 5,
+        "total_xp": 625
+      },
+      "488703315174227968": {
+        "xp": 509,
+        "level": 29,
+        "total_xp": 12759
+      }
+    }
+  },
+  "economy": {
+    "1478406676196622420": {
+      "135208352601997313": {
+        "last_daily": 1772551994,
+        "last_work": 1772557473,
+        "funPoints": 4408,
+        "inventory": [
+          {
+            "id": "2",
+            "name": "THE BEST"
+          }
+        ]
+      },
+      "1072642595194404874": {
+        "last_daily": 1772729236,
+        "last_work": 1772557478,
+        "funPoints": 1445
+      },
+      "839666059475681291": {
+        "funPoints": 2206,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "1443834460515602475": {
+        "funPoints": 2000,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "463441792822411264": {
+        "funPoints": 2000,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "273363069219110913": {
+        "funPoints": 3143,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "1478404334445396198": {
+        "funPoints": 100,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "153579334286835712": {
+        "funPoints": 102,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "1449740325194039321": {
+        "funPoints": 3663,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "353236372129316865": {
+        "funPoints": 3000,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "290877564203827201": {
+        "funPoints": 171,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "592782264740347914": {
+        "funPoints": 105,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "739679361816592486": {
+        "funPoints": 350,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "295855913875537920": {
+        "funPoints": 105,
+        "last_daily": 0,
+        "last_work": 0
+      },
+      "488703315174227968": {
+        "funPoints": 104,
+        "last_daily": 0,
+        "last_work": 0
+      }
+    },
+    "1460092113659363435": {
+      "135208352601997313": {
+        "funPoints": 91,
+        "last_daily": 0,
+        "last_work": 0
+      }
+    }
+  },
+  "profiles": {
+    "1478406676196622420": {
+      "135208352601997313": {
+        "location": "Not set",
+        "bio": "Not set",
+        "voice_status": "feel like jorking it raw"
+      }
+    }
+  },
+  "welcome": {
+    "1478406676196622420": {
+      "message": "Welcome to the ooooooooooo stroke that shiiiiii you better strooookeeeee that shiiiiiiiiiii",
+      "channel_id": 1478406677341409402
+    }
+  },
+  "tickets": {
+    "1478406676196622420": {
+      "category_id": 1478435090353750076,
+      "support_role_id": 1478409845341290651,
+      "counter": 6,
+      "transcript_channel_id": 1479137346795339796
+    }
+  },
+  "ticket_credits": {
+    "1478406676196622420": {
+      "135208352601997313": 97,
+      "1072642595194404874": 53,
+      "273363069219110913": 49,
+      "839666059475681291": 50,
+      "353236372129316865": 10,
+      "1449740325194039321": 10
+    }
+  },
+  "automod": {
+    "1478406676196622420": {
+      "enabled": false,
+      "log_channel_id": 1478476858163986543,
+      "blocked_words": []
+    }
+  },
+  "music": {
+    "1478406676196622420": {
+      "log_channel": 1478453587238719548,
+      "saved_queue": [],
+      "saved_volume": 0.5
+    }
+  },
+  "modlog": {
+    "1478406676196622420": {
+      "channel_id": 1478516261888458873
+    }
+  },
+  "moderation": {
+    "1478406676196622420": {
+      "135208352601997313": {
+        "warnings": [
+          {
+            "id": 1,
+            "moderator_id": 135208352601997313,
+            "reason": "rawr",
+            "timestamp": "2026-03-04T18:26:26.300236+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "user_history": {
+    "1478406676196622420": {
+      "839666059475681291": {
+        "joins": [
+          {
+            "timestamp": "2026-03-04T18:44:35.548505+00:00",
+            "username": "jenninigami",
+            "display_name": "jenninigami",
+            "avatar_hash": "3687522382769636650565d4d5953db3"
+          }
+        ],
+        "last_username": "jenninigami",
+        "last_seen": "2026-03-04T18:44:35.548526+00:00",
+        "user_id": 839666059475681291
+      },
+      "1443834460515602475": {
+        "joins": [
+          {
+            "timestamp": "2026-03-04T21:55:03.712166+00:00",
+            "username": "meimei03434",
+            "display_name": "Mei mei",
+            "avatar_hash": "a_43de30da86b102263dfab337f896787d"
+          }
+        ],
+        "last_username": "meimei03434",
+        "last_seen": "2026-03-04T21:55:03.712196+00:00",
+        "user_id": 1443834460515602475
+      },
+      "463441792822411264": {
+        "joins": [
+          {
+            "timestamp": "2026-03-04T23:38:29.895804+00:00",
+            "username": "patatalhorno",
+            "display_name": "Patata-al-horno",
+            "avatar_hash": "2a4f3eff583cf74f70fa437c9b3baac2"
+          }
+        ],
+        "last_username": "patatalhorno",
+        "last_seen": "2026-03-04T23:38:29.895849+00:00",
+        "user_id": 463441792822411264
+      },
+      "592782264740347914": {
+        "joins": [
+          {
+            "timestamp": "2026-03-09T11:42:00.009697+00:00",
+            "username": "yoruichi_kazuto",
+            "display_name": "Yoru",
+            "avatar_hash": "a_02a73efc2a97a20766c03d3007dc4730"
+          }
+        ],
+        "last_username": "yoruichi_kazuto",
+        "last_seen": "2026-03-09T11:42:00.009716+00:00",
+        "user_id": 592782264740347914
+      },
+      "739679361816592486": {
+        "joins": [
+          {
+            "timestamp": "2026-03-09T17:37:30.049986+00:00",
+            "username": "tangerinasurfista",
+            "display_name": "Tangerinasurfista",
+            "avatar_hash": "8d22322528b590b63f85854a9ac5b1f0"
+          }
+        ],
+        "last_username": "tangerinasurfista",
+        "last_seen": "2026-03-09T17:37:30.050003+00:00",
+        "user_id": 739679361816592486
+      },
+      "295855913875537920": {
+        "joins": [
+          {
+            "timestamp": "2026-03-09T20:17:31.525032+00:00",
+            "username": "pancakeval",
+            "display_name": "valeria",
+            "avatar_hash": "912a22f151afe7c6dee193d59257913e"
+          }
+        ],
+        "last_username": "pancakeval",
+        "last_seen": "2026-03-11T21:22:35.421510+00:00",
+        "user_id": 295855913875537920,
+        "leaves": [
+          {
+            "timestamp": "2026-03-11T21:22:35.421477+00:00",
+            "username": "pancakeval",
+            "roles": [],
+            "nickname": null
+          }
+        ],
+        "last_roles": [],
+        "last_nickname": null,
+        "last_activity": {
+          "xp": 75,
+          "level": 5,
+          "messages": 0,
+          "balance": 0,
+          "bank": 0,
+          "tickets_created": 0,
+          "warnings": [],
+          "profile_status": null,
+          "profile_bio": null
+        }
+      }
+    }
+  },
+  "giveaways": {
+    "1478814382015254578": {
+      "guild_id": 1478406676196622420,
+      "channel_id": 1478406677341409402,
+      "host_id": 135208352601997313,
+      "prize": "1000",
+      "winners": 1,
+      "end_time": 1772647523.5301857,
+      "ended": true,
+      "winner_ids": []
+    },
+    "1478824361527087125": {
+      "guild_id": 1478406676196622420,
+      "channel_id": 1478406677341409402,
+      "host_id": 135208352601997313,
+      "prize": "1000",
+      "winners": 1,
+      "end_time": 1772649902.9772916,
+      "ended": true,
+      "winner_ids": []
+    },
+    "1478827358940172408": {
+      "guild_id": 1478406676196622420,
+      "channel_id": 1478406677341409402,
+      "host_id": 135208352601997313,
+      "prize": "2000",
+      "winners": 1,
+      "start_time": 1772650317.6061957,
+      "end_time": 1772650617.6061957,
+      "ended": true,
+      "entries": [],
+      "winner_ids": []
+    }
+  },
+  "level_rewards": {
+    "1478406676196622420": {
+      "19": 1478811236048179281
+    }
+  },
+  "afk": {},
+  "birthdays": {
+    "1478406676196622420": {
+      "channel": 1478809380764909689,
+      "role": 1478810681313857801,
+      "users": {
+        "135208352601997313": {
+          "date": "03-05",
+          "announced": ""
+        },
+        "1072642595194404874": {
+          "date": "05-25",
+          "announced": ""
+        },
+        "273363069219110913": {
+          "date": "03-05",
+          "announced": ""
+        }
+      }
+    }
+  },
+  "scheduled": {
+    "1478406676196622420": []
+  },
+  "reaction_roles": {
+    "1478406676196622420": {
+      "1478812260376903723": {},
+      "1478812936607629485": {
+        "<:dps:1478813594412908574>": 1478812678645616652,
+        "<:tonk:1478813481204453590>": 1478812691018682465,
+        "<:heal:1478813367828484168>": 1478812702343434360
+      },
+      "1478900679061016740": {
+        "<:dps:1478813594412908574>": 1478812678645616652,
+        "<:tonk:1478813481204453590>": 1478812691018682465,
+        "<:heal:1478813367828484168>": 1478812702343434360
+      }
+    }
+  },
+  "starboard": {
+    "1478406676196622420": {
+      "channel_id": null,
+      "threshold": 3,
+      "emoji": "\u2b50",
+      "self_star": false,
+      "starred_messages": {}
+    }
+  },
+  "shop": {
+    "1478406676196622420": {
+      "next_id": 4,
+      "items": {
+        "1": {
+          "name": "gamer",
+          "description": "",
+          "price": 2000,
+          "role_id": null,
+          "stock": -1
+        },
+        "2": {
+          "name": "THE BEST",
+          "description": "",
+          "price": 2000,
+          "role_id": null,
+          "stock": -1
+        },
+        "3": {
+          "name": "GOOSE",
+          "description": "",
+          "price": 4000,
+          "role_id": null,
+          "stock": -1
+        }
+      }
+    }
+  },
+  "level_settings": {
+    "1478406676196622420": {
+      "levelup_channel_id": 1479285348604444783
+    }
+  }
+}
